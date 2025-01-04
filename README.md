@@ -15,6 +15,8 @@
 - [Google IT Support Professional Certificate](https://coursera.org/share/1ef11652f3d20f905aabb6b794b34a21)
 - [Google Cybersecurity Professional](https://coursera.org/share/2d0154b331c0b77f22be9ae195961e9a)
 
+<h2>📺 YouTube Videos</h2>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Erick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
