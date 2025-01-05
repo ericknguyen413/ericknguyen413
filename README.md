@@ -9,7 +9,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ericknguyen413/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ericknguyen413/azure-network-protocols)
-
+  - [VPN Setup and Usage in Azure](https://github.com/ericknguyen413/vpn-setup-and-usage-in-azure)
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/ericknguyen413/preparing-active-directory-infrastructure-in-azure)
+  - [Deploying Active Directory in Azure](https://github.com/ericknguyen413/deploying-active-directory-in-azure)
+  - [Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/ericknguyen413/creating-users-group-policy-and-managing-accounts-in-azure)
+  
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional Certificate](https://coursera.org/share/1ef11652f3d20f905aabb6b794b34a21)
