@@ -7,8 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ericknguyen413/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ericknguyen413/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ericknguyen413/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ericknguyen413/azure-network-protocols)
+  - [Monitoring Network Traffic with Azure VMs](https://github.com/ericknguyen413/monitoring-network-traffic-with-azure-vms)
   - [VPN Setup and Usage in Azure](https://github.com/ericknguyen413/vpn-setup-and-usage-in-azure)
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/ericknguyen413/preparing-active-directory-infrastructure-in-azure)
