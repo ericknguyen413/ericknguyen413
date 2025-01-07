@@ -12,7 +12,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ericknguyen413/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ericknguyen413/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ericknguyen413/ticket-lifecycle)
+  - [osTicket: Creating and Working Tickets](https://github.com/ericknguyen413/creating-and-working-tickets)
   
 <h2>📄 Certifications</h2>
 
