@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ericknguyen413/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ericknguyen413/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ericknguyen413/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Monitoring Network Traffic with Azure VMs](https://github.com/ericknguyen413/monitoring-network-traffic-with-azure-vms)
   - [VPN Setup and Usage in Azure](https://github.com/ericknguyen413/vpn-setup-and-usage-in-azure)
@@ -13,6 +9,10 @@
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/ericknguyen413/preparing-active-directory-infrastructure-in-azure)
   - [Deploying Active Directory in Azure](https://github.com/ericknguyen413/deploying-active-directory-in-azure)
   - [Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/ericknguyen413/creating-users-group-policy-and-managing-accounts-in-azure)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ericknguyen413/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ericknguyen413/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ericknguyen413/ticket-lifecycle)
   
 <h2>📄 Certifications</h2>
 
