@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Vulnerability Management</b>
+  -[Vulnerability Management Program Implementation](https://github.com/ericknguyen413/Vulnerability-Management-Program-Implementation)
+
 - <b>Microsoft Azure</b>
   - [Monitoring Network Traffic with Azure VMs](https://github.com/ericknguyen413/monitoring-network-traffic-with-azure-vms)
   - [VPN Setup and Usage in Azure](https://github.com/ericknguyen413/vpn-setup-and-usage-in-azure)
