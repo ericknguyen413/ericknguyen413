@@ -1,6 +1,6 @@
 <h1>Hello there, I'm Erick, an <a href="https://linkedin.com/in/erick-nguyen-210036341">IT Professional!</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Program Implementation](https://github.com/ericknguyen413/Vulnerability-Management-Program-Implementation)
