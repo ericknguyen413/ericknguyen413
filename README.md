@@ -4,7 +4,9 @@
 
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Program Implementation](https://github.com/ericknguyen413/Vulnerability-Management-Program-Implementation)
-
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ericknguyen413/programmatic-vulnerability-remediations)
+- <b>Threat Hunting and Security Operations</b>
+  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ericknguyen413/threat-hunting-scenario-tor)
 - <b>Microsoft Azure</b>
   - [Monitoring Network Traffic with Azure VMs](https://github.com/ericknguyen413/monitoring-network-traffic-with-azure-vms)
   - [VPN Setup and Usage in Azure](https://github.com/ericknguyen413/vpn-setup-and-usage-in-azure)
